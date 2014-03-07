@@ -1,3 +1,8 @@
+This Fork Is for a RAspberry Pi Version.
+THAT IS NOT READY IN THE SLITEST WAY.
+
+
+
 ## ObsPy: A Python Toolbox for seismology/seismological observatories.
 
 [![Build Status](https://secure.travis-ci.org/obspy/obspy.png?branch=master)](https://travis-ci.org/obspy/obspy)
